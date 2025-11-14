@@ -14,6 +14,14 @@
 
 ###
 
+<br clear="both">
+
+<div align="center">
+  <img height="300" src="https://i.pinimg.com/736x/07/cd/67/07cd6712406120d508876c628f1889a1.jpg"  />
+</div>
+
+###
+
 <h3 align="left">Lenguajes y herramientas</h3>
 
 ###
@@ -52,25 +60,7 @@
 
 ###
 
-<h3 align="left">Contacto</h3>
-
-###
-
 <br clear="both">
-
-<p align="left">melanipilliza@gmail.com</p>
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/melani-pilliza/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MelaniPilliza&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
@@ -78,7 +68,13 @@
 
 ###
 
-<img align="right" height="200" src="https://i.pinimg.com/736x/07/cd/67/07cd6712406120d508876c628f1889a1.jpg"  />
+<h3 align="left">Contacto</h3>
+
+###
+
+<br clear="both">
+
+<p align="left">📩 Correo: melanipilliza@gmail.com<br>👨‍💻 Linkedin: https://www.linkedin.com/in/melani-pilliza</p>
 
 ###
 
